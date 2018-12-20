@@ -3,7 +3,7 @@
 ## Citation
 
 If you use FollowUp, please cite the following work.
-> Qian Liu, Bei Chen, Jian-Guang Lou, Ge Jin and Dongmei Zhang. 2017. FANDA: A Novel Approach to Perform Follow-­‐up Query Analysis. In AAAI.
+> Qian Liu, Bei Chen, Jian-Guang Lou, Ge Jin and Dongmei Zhang. 2019. FANDA: A Novel Approach to Perform Follow-­‐up Query Analysis. In AAAI.
 
 ```
 @inproceedings{qian2019aaai,
