@@ -23,7 +23,7 @@ def tokenize_sentence(sentence):
     return tokens
 
 
-def evaluate_bleu_score(predict_restate: str, ground_restate: List[str]):
+def evaluate_bleu_score(predict_restate: str, ground_restate: str):
     predict = [ele for ele in tokenize_sentence(predict_restate) if ele not in punctuation]
     target = [ele for ele in tokenize_sentence(ground_restate) if ele not in punctuation]
 
