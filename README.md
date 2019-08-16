@@ -1,9 +1,11 @@
 # FollowUp Dataset
 
+Recent work on Natural Language Interfaces to Databases (NLIDB) has attracted considerable attention. NLIDB allow users to search databases using natural language instead of SQL-like query languages. While saving the users from having to learn query languages, multi-turn interaction with NLIDB usually involves multiple queries where contextual information is vital to understand the users' query intents. In this paper, we address a typical contextual understanding problem, termed as follow-up query analysis. Our work summarizes typical follow-up query scenarios and provides the new `FollowUp` dataset with 1000 query triples on 120 tables.
+
 ## Citation
 
 If you use FollowUp, please cite the following work.
-> Qian Liu, Bei Chen, Jian-Guang Lou, Ge Jin and Dongmei Zhang. 2019. FANDA: A Novel Approach to Perform Follow-­‐up Query Analysis. In AAAI.
+> Qian Liu, Bei Chen, Jian-Guang Lou, Ge Jin and Dongmei Zhang. 2019. FANDA: A Novel Approach to Perform Follow-­‐up Query Analysis. In AAAI 2019.
 
 ```
 @inproceedings{qian2019aaai,
@@ -12,6 +14,24 @@ If you use FollowUp, please cite the following work.
   booktitle={AAAI},
   year={2019}
 }
+```
+
+## Evaluation
+
+You could easily evalute your model output on FollowUp dataset following our `eval.py` script. Put your model prediction (as format of string) case by case under the file `predict.example`, then run the `eval.py` as following:
+
+```
+python eval.py
+```
+
+You will get the evalution result on `test.tsv`. For example, the example prediction result will get the result of:
+
+```shell
+================================================================================
+                     FollowUp Dataset Evaluation Result
+================================================================================
+BLEU Score:  27.48 (%)
+Symbol Acc:  100.00 (%)
 ```
 
 ## Tables
@@ -83,3 +103,7 @@ If you use FollowUp, please cite the following work.
 how many champions were there, according to this table?	show these champions for different all-star game.	show champions for different all-star game.	74
 ```
 
+
+## Concat
+
+If you have any question or have difficulity in applying your model on the FollowUp dataset, please feel free to concat me: qian.liu AT buaa dot edu dot cn. Sure, you could also create a new issue and I will tackle them as soon as possible.
