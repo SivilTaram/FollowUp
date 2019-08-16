@@ -4,7 +4,7 @@ Recent work on Natural Language Interfaces to Databases (NLIDB) has attracted co
 
 ## Citation
 
-If you use FollowUp, please cite the following work.
+If you use FollowUp, please cite the following work. Our paper is also avaiable on [arxiv](https://arxiv.org/abs/1901.08259).
 > Qian Liu, Bei Chen, Jian-Guang Lou, Ge Jin and Dongmei Zhang. 2019. FANDA: A Novel Approach to Perform Follow-­‐up Query Analysis. In AAAI 2019.
 
 ```
