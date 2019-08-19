@@ -30,7 +30,7 @@ You will get the evalution result on `test.tsv`. For example, the example predic
 ================================================================================
                      FollowUp Dataset Evaluation Result
 ================================================================================
-BLEU Score:  27.48 (%)
+BLEU Score:  100.00 (%)
 Symbol Acc:  100.00 (%)
 ```
 

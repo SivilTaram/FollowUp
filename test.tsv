@@ -32,7 +32,7 @@ which incumbents is the longest to re-elected.	set scope to retired republican g
 how many broadcasters with the colour commentator harry neale ?	Among them, how many broadcasters with the studio host ron maclean ?	Among broadcasters with the colour commentator harry neale, how many broadcasters with the studio host ron maclean ?	30
 what were the top 3 number of total evas in the list?	show their related astronauts.	show astronauts who have top 3 number of total evas in the list	6
 List the titles with viewers greater than 5.02 .	sort by viewers in ascending order .	List the titles with viewers greater than 5.02 and sort by viewers in ascending order .	29
-name the mccain % for dukes	name that for other counties.	name the mccain % for counties excluding dukes .	15
+name the mccain % for dukes	name that for other counties.	name the mccain % for counties not dukes .	15
 how many tournaments are in doha in the table ?	compare those with berlin .	compare the amount of tournaments in doha with berlin.	48
 which position has a player of bernard thompson ?	in the position of centre ?	which position has a player of bernard thompson in the position of centre ?	50
 what was the attendance for a game played @ nashville predators ?	what was the score ?	what was the score for a game played @ nashville predators ?	108
@@ -53,7 +53,7 @@ what is the total number of former team?	number of position?	what is the total n
 what score did new jersey devils got in the game 64	compare it with 65	what score did new jersey devils got in the game 64 and 65	72
 how many elections have been held in 1982	what's 1937	how many elections have been held in 1937	71
 Which artist has already published two books?	of these two books, which is published later?	of books published by artist which has already published two books, which is published later?	7
-for the event discus, which has occured in shenzhen ?	what is the competition of that event ?	what is the competition of event dicus which has occued in shenzhen ?	104
+for the event discus, which has occur in shenzhen ?	what is the competition of that event ?	what is the competition of event dicus which occur in shenzhen ?	104
 what is the total number of playoffs held in exactly 2006 ?	what about in 2006 to 2008	what is the total number of playoffs held in 2006 to 2008	61
 which player is above 6' 6" height	by weight descending	show player above 6' 6" height by weight descending	55
 what is the lowest no . in series ?	What is the 2nd lowest?	what is the 2nd lowest no . in series ?	18
@@ -106,7 +106,7 @@ which player had a position of t1 and played in the united states ?	what is the 
 sum of all crowd from penrith	compare to london	compare sum of all crowd from penrith to london	99
 give me a list of ensembles which has zero gold medals and two silver models .	in those ensembles, which has more total medals than 5 ?	in ensembles which has zero gold medals and two silver models , which has more total medals than 5 ?	101
 sort weeks by the number of attendance in descending order, and take the top 3 weeks.	Keep only those whose attendance was larger than 80,000 ?	sort week by the number of attendance in descending order, and take the top 3 weeks whose attendance was larger than 80,000	5
-the total amount of chassises except lola t92/00	Among them, count the chassises with team pagan racing .	Among chassises except lola t92/00, count the chassises with team pagan racing .	27
+the total amount of chassises not lola t92/00	Among them, count the chassises with team pagan racing .	Among chassises not lola t92/00, count the chassises with team pagan racing .	27
 which the only week has the result of bye ?	which has the result of l 20–7 ?	which the week has the result of l 20–7 ?	113
 who had high assists on november 12 ?	what about one day after that	who had high assists on november 13 ?	54
 how many viewers watched the drama of just love?	set scope to the academy	how many viewers watched the drama of the academy?	2
@@ -118,9 +118,9 @@ on the leaderboard, how many players got to par more than 0 ?	how many are less 
 what rank did michael phelps receive ?	what heat did he receive ?	what heat did michael phelps receive ?	116
 what is the original air date for episode 17 in the season ?	show the writer of it	show the writer of episode 17 in the season	57
 how many title were directed by martin wood?	by no. in season ascending	show title directed by martin wood by no. in season ascending	57
-ordered by the points from small to large, show the vistiors and homes.	from large to small .	ordered by the points from large to small, show the vistiors and homes.	119
+ordered by the points from small to large, show the visitors and homes.	from large to small .	ordered by the points from large to small, show the visitors and homes.	119
 Do all the league cups have detailed report?	how many not?	how many league cups do not have detailed report?	88
-which player has served as the position defensive back?	served as other positions?	which player has served as the position excluding defensive back?	12
+which player has served as the position defensive back?	served as other positions?	which player has served as the position not defensive back?	12
 for dartmouth high school, sum the gold medals, silver medals and bronze medals	just silver medals and bronze medals	for dartmouth high school, sum the silver medals and bronze medals	101
 what 's the record with high points being dwyane wade 27 and location attendance being arco arena	remove location attendance being arco arena	what 's the record with high points being dwyane wade 27 .	54
 List all the songs with total greater than 60.	Sort them by televote.	List all the songs with total greater than 60 and sort by televote.	25
@@ -134,8 +134,8 @@ what was the record when vancouver was the visitor ?	how does it compare to los 
 Are there just one institution use the home arena kettering rec center	hwo about bird arena	Are there just one institution use the bird arena	52
 how many riders use the bike ducati 999 f05, kawasaki zx-10r and honda cbr1000rr	how many just use the bike ducati 999 f05 ?	how many riders use the bike ducati 999 f05 ?	77
 what was the first year that Maple Leafs won their opponent?	what was second	what was the second year that Maple Leafs won their opponent?	72
-Is the director of "me donkey want water" also the director of "poor man's paradise" ?	show the directors of other titles.	show the directors of titles excluding "me donkey want water" and "poor man's paradis" .	40
-what position was marty gateman in ?	what positions were other players in ?	what positions were players except marty gateman in ?	46
+Is the director of "me donkey want water" also the director of "poor man's paradise" ?	show the directors of other titles.	show the directors of titles not "me donkey want water" and "poor man's paradis" .	40
+what position was marty gateman in ?	what positions were other players in ?	what positions were players not marty gateman in ?	46
 how many artists received more than 20 televotes ?	the average televotes of them?	the average televotes of artists received more than 20 televotes.	25
 name the hdtv for sky primafila 17	in n° 369 for all television service	name the hdtv in n° 369	14
 which writer has created more titles, denis leary, or evan reilly ?	what about writer john scurti and sean nash	which writer has created more titles, john scurti, or sean nash	86
@@ -157,14 +157,14 @@ which player has a score of 74-68-72-71=285 ?	how many players have a score less
 show amount of result won per year	how about nominated ?	show amount of result nominated per year	118
 what was the score when playing milwaukee ?	show the date and record	show the date and record when playing milwaukee ?	54
 sort the venues using value of average .	using value of total.	sort the venues using value of total.	76
-what is the only player who is from netherlands ?	compare the amount to other nationalities .	compare the amount of players who is from netherlands to nationalities except netherlands .	110
+what is the only player who is from netherlands ?	compare the amount to other nationalities .	compare the amount of players who is from netherlands to nationalities not netherlands .	110
 average time using by top 20 rank swimmers .	just the best rank ?	average time using by the best rank swimmers .	116
 show the roles sorted by their year inducted	order from early to late	show the roles sorted by their year inducted as the order from early to late	97
-average of the number of total in table .	in teams excluding ust growling tigers .	average of the number of total in teams excluding ust growling tigers .	93
+average of the number of total in table .	in teams not ust growling tigers .	average of the number of total in teams not ust growling tigers .	93
 How many people are enrolled at Ohio University?	what is the name of student newspaper of that university ?	what is the name of student newspaper of Ohio University ?	96
 which player runs were in the middle of all.	the top of all ?	which player runs were in the top of all.	34
 what is the lowest swimsuit that has an evening gown bigger than 8.794 ?	the highest	what is the highest swimsuit that has an evening gown bigger than 8.794 ?	28
-how many televotes does the final contest receive ?	sum of them which are for top 10 palce .	sum of televotes which are for top 10 palce in the final contest receive.	94
+how many televotes does the final contest receive ?	sum of them which are for top 10 place .	sum of televotes which are for top 10 place in the final contest receive.	94
 Is there any title belongs to nancy miller	I mean the writer nancy miller	Is there any title belongs to writer nancy miller	3
 which player, also the wide receiver, was from usc ?	was justin blackmon in the same position ?	was justin blackmon in wide receiver ?	33
 what is the team website when the institution is indiana university of pennsylvania ?	how about the team nickname?	what is the team nickname when the institution is indiana university of pennsylvania ?	52
