@@ -4,7 +4,7 @@ Recent work on Natural Language Interfaces to Databases (NLIDB) has attracted co
 
 ## Citation
 
-If you use FollowUp, please cite the following work. Our paper is also avaiable on [arxiv](https://arxiv.org/abs/1901.08259).
+If you use `FollowUp` in your research work, please consider citing our work:
 > Qian Liu, Bei Chen, Jian-Guang Lou, Ge Jin and Dongmei Zhang. FANDA: A Novel Approach to Perform Follow-­‐up Query Analysis. In AAAI 2019.
 
 ```
@@ -18,13 +18,13 @@ If you use FollowUp, please cite the following work. Our paper is also avaiable 
 
 ## Evaluation
 
-You could easily evalute your model output on FollowUp dataset following our `eval.py` script. Put your model prediction (as format of string) case by case under the file `predict.example`, then run the `eval.py` as following:
+You could easily evalute your model output on FollowUp dataset following our `data/eval.py` script. Put your model prediction (as format of string) case by case under the file `data/predict.example`, then run the `data/eval.py` as following:
 
 ```
 python eval.py
 ```
 
-You will get the evalution result on `test.tsv`. For example, the example prediction result will get the result of:
+You will get the evalution result test set of `FollowUp`. For example, the example prediction result will get the result of:
 
 ```shell
 ================================================================================
@@ -33,6 +33,10 @@ You will get the evalution result on `test.tsv`. For example, the example predic
 BLEU Score:  100.00 (%)
 Symbol Acc:  100.00 (%)
 ```
+
+## Processed Data
+
+To alleviate the burden of preprocessing data, we provide our processed datasets in the folder `data_processed`, and the script will be released soon. The original dataset is placed under `data` folder.
 
 ## Tables
 
