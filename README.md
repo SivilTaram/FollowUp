@@ -5,13 +5,13 @@ Recent work on Natural Language Interfaces to Databases (NLIDB) has attracted co
 ## Citation
 
 If you use `FollowUp` in your research work, please consider citing our work:
-> Qian Liu, Bei Chen, Jian-Guang Lou, Ge Jin and Dongmei Zhang. FANDA: A Novel Approach to Perform Follow-­‐up Query Analysis. In AAAI 2019.
+> Qian Liu, Bei Chen, Jian-Guang Lou, Ge Jin and Dongmei Zhang. 2019. FANDA: A Novel Approach to Perform Follow-up Query Analysis. In AAAI.
 
 ```
-@inproceedings{qian2019aaai,
-  title={FANDA: A Novel Approach to Perform Follow-­‐up Query Analysis},
-  author={Qian Liu, Bei Chen, Jian-Guang Lou, Ge Jin and Dongmei Zhang},
-  booktitle={AAAI},
+@inproceedings{liu2019fanda,
+  title={\textsc{FAnDa}: A Novel Approach to Perform Follow-up Query Analysis},
+  author={Liu, Qian and Chen, Bei and Lou, Jian-Guang and Jin, Ge and Zhang, Dongmei},
+  booktitle ={AAAI},
   year={2019}
 }
 ```
